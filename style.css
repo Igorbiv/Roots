@@ -1,0 +1,21 @@
+.wrapper .container input{
+    margin-top: 80px;
+    border: none;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+    border-radius: 50px;
+    padding: 16px 20px;
+    background-color: #e4d611;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+
+.wrapper .container input:hover{
+    background-color: #72e4b0;
+    color: #34495e;
+    transition: all 0.5s;
+}
